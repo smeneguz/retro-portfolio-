@@ -1,4 +1,4 @@
-# Silvio Meneguzzo - Retro Portfolio 🎮
+# Silvio Meneguzzo - Retro Portfolio 
 
 **A professional blockchain research portfolio with a retro 8-bit aesthetic**
 
@@ -6,20 +6,20 @@ Live site: [https://meneguzzo.eth.limo](https://meneguzzo.eth.limo)
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎮 **Playable Snake Game** - Fun retro easter egg
-- 🎨 **5 Color Themes** - Cyberpunk Pink, Game Boy, Outrun, Matrix, Blockchain Blue
-- 📱 **Fully Responsive** - Perfect on desktop, tablet, and mobile
-- 📝 **9 Publications** - All academic papers with DOIs
-- 💼 **Complete CV** - Education, work experience, skills
-- 📧 **Contact Form** - Email integration with EmailJS
-- 📬 **Newsletter** - Subscription functionality
-- ⚡ **Fast Loading** - Optimized production build (~110KB gzipped)
+- **Playable Snake Game** - Fun retro easter egg
+- **5 Color Themes** - Cyberpunk Pink, Game Boy, Outrun, Matrix, Blockchain Blue
+- **Fully Responsive** - Perfect on desktop, tablet, and mobile
+- **9 Publications** - All academic papers with DOIs
+- **Complete CV** - Education, work experience, skills
+- **Contact Form** - Email integration with EmailJS
+- **Newsletter** - Subscription functionality
+- **Fast Loading** - Optimized production build (~110KB gzipped)
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Development
 
@@ -44,9 +44,9 @@ npm run preview
 
 ---
 
-## 📧 Contact Forms - Working Now!
+## Contact Forms - Working Now!
 
-**Current Status:** ✅ Forms work immediately without setup!
+**Current Status:** Forms work immediately without setup!
 
 ### How It Works (Without EmailJS)
 
@@ -107,7 +107,7 @@ For automatic email delivery without mailto: popups:
 
 ---
 
-## 📝 Content Management
+## Content Management
 
 All content is stored in JSON files in `src/config/`. No coding required to update!
 
@@ -175,7 +175,7 @@ Edit `src/config/blog.json`:
 
 ---
 
-## 🎨 Themes
+## Themes
 
 Users can switch between 5 retro color themes:
 
@@ -189,9 +189,9 @@ Themes persist in browser localStorage.
 
 ---
 
-## 🎮 Snake Game
+## Snake Game
 
-Click the gamepad icon (🎮) in the header to play!
+Click the gamepad icon in the header to play!
 
 **Controls:**
 - Arrow Keys - Move
@@ -202,7 +202,7 @@ High scores are saved in localStorage.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 retro-portfolio/
@@ -213,7 +213,7 @@ retro-portfolio/
 │   │   ├── common/          # Reusable components (Button, Card, etc.)
 │   │   ├── game/            # Snake game components
 │   │   └── layout/          # Header, Footer
-│   ├── config/              # ⭐ EDIT THESE FOR UPDATES
+│   ├── config/              # EDIT THESE FOR UPDATES
 │   │   ├── siteConfig.json  # Personal info, education, experience
 │   │   ├── publications.json # Papers and talks
 │   │   ├── projects.json    # GitHub projects
@@ -229,7 +229,7 @@ retro-portfolio/
 
 ---
 
-## 🚢 Deployment
+## Deployment
 
 ### Option 1: Vercel (Recommended)
 
@@ -268,7 +268,7 @@ Site Settings → Build & Deploy → Environment → Add variables
 
 ---
 
-## 📊 Build Info
+## Build Info
 
 - **Bundle Size:** ~355 KB (~110 KB gzipped)
 - **Load Time:** <2 seconds
@@ -276,7 +276,7 @@ Site Settings → Build & Deploy → Environment → Add variables
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Contact form not sending emails
 
@@ -300,13 +300,13 @@ npm run dev
 
 ---
 
-## 📄 License
+## License
 
 Personal portfolio website. All rights reserved.
 
 ---
 
-## 👤 Contact
+## Contact
 
 **Silvio Meneguzzo**
 - Email: meneguzzosilvio@gmail.com
