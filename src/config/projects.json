@@ -1,0 +1,109 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "zkintro",
+      "category": "research",
+      "description": "Italian adaptation of Zero-Knowledge Proofs educational materials covering mathematics, programming guides, and practical examples. Comprehensive resource for learning ZK cryptography.",
+      "technologies": ["JavaScript", "Zero-Knowledge Proofs", "Cryptography", "Education"],
+      "github": "https://github.com/smeneguz/zkintro",
+      "link": "https://github.com/smeneguz/zkintro",
+      "stars": 1,
+      "featured": true,
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "title": "DAO Data Visualization",
+      "category": "research",
+      "description": "Visual exploration platform for DAO governance key performance indicators with reproducible data pipelines. Tools for analyzing on-chain governance metrics and sustainability.",
+      "technologies": ["JavaScript", "Data Visualization", "DAOs", "Analytics"],
+      "github": "https://github.com/smeneguz/dao-data-visualization",
+      "link": "https://github.com/smeneguz/dao-data-visualization",
+      "stars": 0,
+      "featured": true,
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "title": "Rust-Chain",
+      "category": "blockchain",
+      "description": "Blockchain implementation from scratch in Rust, featuring core data structures and consensus mechanisms. Educational project demonstrating blockchain fundamentals.",
+      "technologies": ["Rust", "Blockchain", "Consensus", "P2P"],
+      "github": "https://github.com/smeneguz/Rust-Chain",
+      "link": "https://github.com/smeneguz/Rust-Chain",
+      "stars": 0,
+      "featured": true,
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "title": "Swapfee Dynamic Gas",
+      "category": "web3",
+      "description": "DApp prototype enabling gas payment via custom tokens on IOTA network with programmable transaction support. Winner of 3rd place at IOTA Hackathon 2024.",
+      "technologies": ["TypeScript", "IOTA", "Smart Contracts", "DApp"],
+      "github": "https://github.com/smeneguz/Swapfee-Dynamic-Gas",
+      "link": "https://github.com/smeneguz/Swapfee-Dynamic-Gas",
+      "stars": 0,
+      "featured": true,
+      "status": "completed",
+      "award": "IOTA Hackathon 3rd Place (2024)"
+    },
+    {
+      "id": 5,
+      "title": "Commercio.network",
+      "category": "blockchain",
+      "description": "Source code for Commercio.network, a document-focused blockchain built on Cosmos SDK. Enterprise blockchain solution for document certification and eIDAS compliance.",
+      "technologies": ["Go", "Cosmos SDK", "Blockchain", "Enterprise"],
+      "github": "https://github.com/commercionetwork/commercionetwork",
+      "link": "https://commercio.network",
+      "stars": 28,
+      "forks": 13,
+      "featured": false,
+      "status": "active",
+      "contribution": "Core contributor during Tradenet employment"
+    },
+    {
+      "id": 6,
+      "title": "EU-DREAM",
+      "category": "research",
+      "description": "European project on blockchain-based data marketplaces for energy sector. Research on privacy, trust, and interoperability using IDSA connectors and SSI solutions.",
+      "technologies": ["Blockchain", "Data Marketplace", "Energy", "IDSA"],
+      "github": null,
+      "link": "https://eu-dream.eu",
+      "featured": false,
+      "status": "active",
+      "role": "Researcher at Fondazione LINKS"
+    },
+    {
+      "id": 7,
+      "title": "DataCellar",
+      "category": "research",
+      "description": "European research project focusing on decentralized data management and blockchain integration for secure data sharing.",
+      "technologies": ["Blockchain", "Data Management", "Privacy", "Security"],
+      "github": null,
+      "link": null,
+      "featured": false,
+      "status": "active",
+      "role": "Researcher at Fondazione LINKS"
+    },
+    {
+      "id": 8,
+      "title": "Energy Data Marketplace (Ocean Protocol)",
+      "category": "research",
+      "description": "Research project exploring energy data marketplaces using Ocean Protocol. Published at IEEE COMPSAC 2023. Focus on decentralized data exchange in energy sector.",
+      "technologies": ["Ocean Protocol", "Data Marketplace", "Energy", "Privacy"],
+      "github": null,
+      "link": "https://doi.org/10.1109/COMPSAC57700.2023.00229",
+      "featured": false,
+      "status": "completed",
+      "publication": "IEEE COMPSAC 2023"
+    }
+  ],
+  "categories": [
+    { "id": "all", "name": "All Projects" },
+    { "id": "blockchain", "name": "Blockchain" },
+    { "id": "web3", "name": "Web3" },
+    { "id": "research", "name": "Research" }
+  ]
+}

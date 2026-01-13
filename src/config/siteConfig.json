@@ -1,0 +1,155 @@
+{
+  "personal": {
+    "name": "Silvio Meneguzzo",
+    "title": "PhD Candidate in Blockchain & DLT",
+    "tagline": "Researcher • Developer • Blockchain Enthusiast",
+    "email": "meneguzzosilvio@gmail.com",
+    "phone": "+39 3341168370",
+    "location": "Torino, Italy",
+    "bio": "I am a PhD Candidate in Blockchain and Distributed Ledger Technologies, combining academic research (University of Turin) with industrial R&D (Links Foundation). My research focuses on data marketplaces (with emphasis on the energy domain), DAOs and governance sustainability, and privacy-preserving cryptographic techniques.",
+    "website": "https://meneguzzo.eth.limo",
+    "cvPdf": "/CV_Europass_Silvio_Meneguzzo.pdf"
+  },
+  "social": {
+    "github": {
+      "url": "https://github.com/smeneguz",
+      "username": "smeneguz"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/silvio-arras-meneguzzo",
+      "username": "silvio-arras-meneguzzo"
+    },
+    "scholar": {
+      "url": "https://scholar.google.com/citations?user=cFT2URcAAAAJ",
+      "username": "Silvio Meneguzzo"
+    },
+    "twitter": {
+      "url": "https://x.com/SilvioMeneguzzo",
+      "username": "@SilvioMeneguzzo"
+    }
+  },
+  "education": [
+    {
+      "id": 1,
+      "degree": "PhD in Blockchain and Distributed Ledger Technology",
+      "institution": "National PhD Program ISAS (University of Turin - University of Camerino)",
+      "location": "Torino, Italy",
+      "period": "Dec 2022 - Present",
+      "description": "Joint National Programme: University of Camerino, University of Turin, LINKS Foundation. Visiting researcher: Brunel University London (2024-2025). Research topics: energy data marketplaces, DAO governance & sustainability, ZK proofs / MPC / FHE.",
+      "url": "https://isas.unicam.it/dni/blockchain-and-DLT",
+      "field": "Information and Communication Technologies (ICTs): Software and applications development and analysis"
+    },
+    {
+      "id": 2,
+      "degree": "Master degree",
+      "institution": "University of Padova",
+      "location": "Padova, Italy",
+      "period": "Sep 2019 - Nov 2021",
+      "description": "Inter-disciplinary programmes and qualifications involving Information and Communication Technologies (ICTs). Thesis: design and implementation of a cloud-based test executor for microcontroller algorithms (in collaboration with Infineon).",
+      "url": "https://www.unipd.it/en/educational-offer/second-cycle-degree/engineering?tipo=LM&scuola=IN&ordinamento=2025&key=IN2898",
+      "field": "Information and Communication Technologies (ICTs)"
+    },
+    {
+      "id": 3,
+      "degree": "Bachelor degree",
+      "institution": "University of Padova",
+      "location": "Padova, Italy",
+      "period": "Sep 2015 - Mar 2019",
+      "description": "Inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics. Mathematics focus with computer science integration.",
+      "url": "https://informatica.math.unipd.it/laurea/",
+      "field": "Natural sciences, mathematics and statistics: Mathematics"
+    },
+    {
+      "id": 4,
+      "degree": "High school certificate",
+      "institution": "Liceo Scientifico Nicolò Tron",
+      "location": "Schio, Italy",
+      "period": "Sep 2010 - Aug 2015",
+      "description": "Scientific high school with focus on mathematics and natural sciences.",
+      "url": "https://www.liceischio.edu.it/",
+      "field": "Natural sciences, mathematics and statistics: Mathematics"
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "Blockchain Researcher & Developer",
+      "company": "Fondazione LINKS",
+      "location": "Torino, Italy",
+      "period": "Dec 2022 - Present",
+      "description": "Research on blockchain-based data marketplaces focusing on privacy, trust and interoperability. Contribution to European projects (EU-DREAM, DataCellar, eFORT, B4A). Integration of IDSA connectors and SSI solutions; collaboration with university partners on prototypes and publications.",
+      "achievements": [
+        "Contributed to peer-reviewed papers and project demonstrators"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Software Engineer",
+      "company": "Tradenet",
+      "location": "Schio, Italy",
+      "period": "Jul 2022 - Nov 2022",
+      "description": "Development of blockchain applications on Commercio.network (Cosmos SDK). R&D on smart contract security and distributed systems; system maintenance and deployment.",
+      "achievements": []
+    },
+    {
+      "id": 3,
+      "title": "Product Engineer",
+      "company": "Infineon Technologies",
+      "location": "Padova, Italy",
+      "period": "Jan 2021 - Jul 2021",
+      "description": "Designed and implemented a cloud test executor for microcontroller test data exchange across sites. Produced technical documentation and presentations for international engineering teams.",
+      "achievements": []
+    },
+    {
+      "id": 4,
+      "title": "Business Consultant",
+      "company": "Sopra Steria",
+      "location": "Milan, Italy",
+      "period": "Jan 2018 - Jan 2019",
+      "description": "Requirements analysis and support for omnichannel solutions in finance and retail; stakeholder coordination. Main Clients: Armani (Omnichannel strategy specialist) and A2A (Open innovation).",
+      "achievements": []
+    },
+    {
+      "id": 5,
+      "title": "Project coordinator",
+      "company": "Red Babel",
+      "location": "Amsterdam, Netherlands",
+      "period": "Jan 2017 - Jun 2017",
+      "description": "Short project. Managed a team of seven developers; led development of a Monolith SDK for Meteor/Rocket.Chat integration.",
+      "achievements": []
+    }
+  ],
+  "skills": {
+    "programming": ["JavaScript", "Solidity", "Go", "Python", "C/C++", "Rust", "SQL"],
+    "blockchain": ["Cosmos SDK", "Solidity (Smart Contracts)", "Hyperledger Fabric", "Ocean Protocol", "IDSA Connectors"],
+    "frameworks": ["Node.js", "React", "Git", "CI/CD", "AWS"],
+    "research": ["Academic Writing (LaTeX)", "Data Privacy & GDPR", "Quantitative Methods", "Zero-Knowledge Proofs", "MPC", "FHE"]
+  },
+  "researchInterests": [
+    {
+      "id": 1,
+      "title": "Energy Data Marketplaces",
+      "description": "Blockchain-based data marketplaces focusing on privacy, trust, and interoperability in the energy sector."
+    },
+    {
+      "id": 2,
+      "title": "DAO Governance & Sustainability",
+      "description": "On-chain governance metrics, game-theoretic incentive models, and long-term sustainability of decentralized organizations."
+    },
+    {
+      "id": 3,
+      "title": "Privacy-Preserving Techniques",
+      "description": "Zero-knowledge proofs, multi-party computation (MPC), and fully homomorphic encryption (FHE) for blockchain applications."
+    },
+    {
+      "id": 4,
+      "title": "Smart Contract Security",
+      "description": "Developing tools and methodologies for identifying and preventing vulnerabilities in smart contracts."
+    },
+    {
+      "id": 5,
+      "title": "Decentralized Systems",
+      "description": "Federated systems, interoperability protocols, and distributed ledger architectures."
+    }
+  ]
+}

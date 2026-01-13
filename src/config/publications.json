@@ -1,0 +1,142 @@
+{
+  "publications": [
+    {
+      "id": 1,
+      "title": "Evaluating DAO Sustainability and Longevity Through On-Chain Governance Metrics",
+      "authors": "Silvio Meneguzzo et al.",
+      "venue": "IEEE Open Journal of the Computer Society",
+      "year": 2025,
+      "type": "journal",
+      "status": "Submitted",
+      "doi": "https://arxiv.org/abs/2504.11341",
+      "conference": null,
+      "location": null
+    },
+    {
+      "id": 2,
+      "title": "Design and Evaluation of a Sub-8 Second Decentralised Marketplace for Energy Data",
+      "authors": "Silvio Meneguzzo et al.",
+      "venue": "2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)",
+      "year": 2025,
+      "type": "conference",
+      "status": "Published",
+      "doi": "https://doi.org/10.1109/COMPSAC65507.2025.00233",
+      "conference": "IEEE COMPSAC 2025",
+      "location": "Toronto, ON, Canada"
+    },
+    {
+      "id": 3,
+      "title": "A Blockchain-Powered Digital Twin Architecture for Consumer-Centric Energy Systems",
+      "authors": "Silvio Meneguzzo et al.",
+      "venue": "2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)",
+      "year": 2025,
+      "type": "conference",
+      "status": "Published",
+      "doi": "https://doi.org/10.1109/COMPSAC65507.2025.00234",
+      "conference": "IEEE COMPSAC 2025",
+      "location": "Toronto, ON, Canada"
+    },
+    {
+      "id": 4,
+      "title": "A Game-Theoretic Incentive Model for DAO Governance",
+      "authors": "Silvio Meneguzzo et al.",
+      "venue": "2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)",
+      "year": 2025,
+      "type": "conference",
+      "status": "Published",
+      "doi": "https://doi.org/10.1109/COMPSAC65507.2025.00232",
+      "conference": "IEEE COMPSAC 2025",
+      "location": "Toronto, ON, Canada"
+    },
+    {
+      "id": 5,
+      "title": "Making Smart Contracts Easier To Understand",
+      "authors": "Silvio Meneguzzo et al.",
+      "venue": "2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)",
+      "year": 2025,
+      "type": "conference",
+      "status": "Published",
+      "doi": "https://doi.org/10.1109/COMPSAC65507.2025.00238",
+      "conference": "IEEE COMPSAC 2025",
+      "location": "Toronto, ON, Canada"
+    },
+    {
+      "id": 6,
+      "title": "Shaping the Future of Energy Markets: Federated Systems and Blockchain Synergy",
+      "authors": "Silvio Meneguzzo et al.",
+      "venue": "2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)",
+      "year": 2024,
+      "type": "conference",
+      "status": "Published",
+      "doi": "https://doi.org/10.1109/COMPSAC61105.2024.00324",
+      "conference": "IEEE COMPSAC 2024",
+      "location": "Osaka, Japan"
+    },
+    {
+      "id": 7,
+      "title": "Enabling Citizen Sustainable Behaviors in Urban Mobility through Blockchain and Tokenization",
+      "authors": "Silvio Meneguzzo et al.",
+      "venue": "Blockchain Technology in the Automotive Industry",
+      "year": 2024,
+      "type": "book-chapter",
+      "status": "Published",
+      "doi": "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003450306-17/enabling-citizen-sustainable-behaviors-urban-mobility-blockchain-tokenization-silvio-meneguzzo-elvis-gerardin-konjoh-selabi-alfredo-favenza-valentina-gatteschi-claudio-schifanella",
+      "conference": null,
+      "location": null,
+      "publisher": "CRC Press"
+    },
+    {
+      "id": 8,
+      "title": "Integrating a DLT-Based Data Marketplace with IDSA for a Unified Energy Dataspace",
+      "authors": "Silvio Meneguzzo et al.",
+      "venue": "2023 5th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)",
+      "year": 2023,
+      "type": "conference",
+      "status": "Published",
+      "doi": "https://doi.org/10.1109/BRAINS59668.2023.10316796",
+      "conference": "BRAINS 2023",
+      "location": "Paris, France"
+    },
+    {
+      "id": 9,
+      "title": "Exploring the Potential of Energy Data Marketplaces: an Approach based on the Ocean Protocol",
+      "authors": "Silvio Meneguzzo et al.",
+      "venue": "2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC)",
+      "year": 2023,
+      "type": "conference",
+      "status": "Published",
+      "doi": "https://doi.org/10.1109/COMPSAC57700.2023.00229",
+      "conference": "IEEE COMPSAC 2023",
+      "location": "Torino, Italy"
+    }
+  ],
+  "talks": [
+    {
+      "id": 1,
+      "title": "CrypTO SERICS Workshop",
+      "role": "Invited Speaker",
+      "event": "CrypTO SERICS Workshop",
+      "location": "Torino, Italy",
+      "date": "2025-05-22",
+      "url": "https://www.polito.it/ateneo/comunicazione-e-ufficio-stampa/appuntamenti/news?idn=25869"
+    },
+    {
+      "id": 2,
+      "title": "IoT-DLT-AI Technological Convergence",
+      "role": "Invited Speaker",
+      "event": "Brussels Technology Presentation",
+      "location": "Brussels, Belgium",
+      "date": "2023-09-08",
+      "url": "https://www.youtube.com/watch?v=yvKQwosiJ3s"
+    },
+    {
+      "id": 3,
+      "title": "Blockchain for Data Marketplace: Enhancing Security, Privacy, and Trust",
+      "role": "Seminar Presenter",
+      "event": "dltgroup.it Seminar",
+      "location": "Bologna, Italy",
+      "date": "2023-05-05",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=cFT2URcAAAAJ&citation_for_view=cFT2URcAAAAJ:d1gkVwhDpl0C"
+    }
+  ]
+}

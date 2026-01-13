@@ -1,0 +1,55 @@
+.pixel-character {
+  display: inline-block;
+  padding: var(--spacing-md);
+}
+
+.pixel-character__sprite {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  transition: transform var(--transition-fast);
+}
+
+.pixel-row {
+  display: flex;
+  gap: 2px;
+}
+
+.pixel {
+  width: 8px;
+  height: 8px;
+  background: transparent;
+  image-rendering: pixelated;
+}
+
+.pixel--primary {
+  background: var(--color-primary);
+  box-shadow: 0 0 4px var(--color-primary);
+}
+
+.pixel--secondary {
+  background: var(--color-secondary);
+  box-shadow: 0 0 4px var(--color-secondary);
+}
+
+.pixel--accent {
+  background: var(--color-accent);
+  box-shadow: 0 0 4px var(--color-accent);
+}
+
+/* Animation frames */
+.pixel-character__sprite--frame-0 {
+  transform: translateY(0);
+}
+
+.pixel-character__sprite--frame-1 {
+  transform: translateY(-2px);
+}
+
+.pixel-character__sprite--frame-2 {
+  transform: translateY(0);
+}
+
+.pixel-character__sprite--frame-3 {
+  transform: translateY(2px);
+}

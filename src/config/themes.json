@@ -1,0 +1,95 @@
+{
+  "themes": {
+    "cyberpunk": {
+      "name": "Cyberpunk Pink",
+      "description": "Original hot pink and cyan retro aesthetic",
+      "colors": {
+        "primary": "#fc0fc0",
+        "secondary": "#00e5e8",
+        "accent": "#fcfc00",
+        "success": "#00fc00",
+        "danger": "#fc0000",
+        "bg": "#000000",
+        "bgSecondary": "#1a1a1a",
+        "text": "#ffffff",
+        "textMuted": "#b0b0b0",
+        "borderLight": "#ffffff",
+        "borderDark": "#404040",
+        "shadow": "#000000"
+      }
+    },
+    "gameboy": {
+      "name": "Game Boy Classic",
+      "description": "Nostalgic green monochrome palette",
+      "colors": {
+        "primary": "#9bbc0f",
+        "secondary": "#8bac0f",
+        "accent": "#306230",
+        "success": "#0f380f",
+        "danger": "#9bbc0f",
+        "bg": "#0f380f",
+        "bgSecondary": "#1a4d1a",
+        "text": "#9bbc0f",
+        "textMuted": "#8bac0f",
+        "borderLight": "#9bbc0f",
+        "borderDark": "#306230",
+        "shadow": "#0f380f"
+      }
+    },
+    "outrun": {
+      "name": "Outrun Sunset",
+      "description": "Purple and orange sunset vibes",
+      "colors": {
+        "primary": "#ff6ec7",
+        "secondary": "#7a5fff",
+        "accent": "#ff9d00",
+        "success": "#00ff9f",
+        "danger": "#ff3864",
+        "bg": "#0a0015",
+        "bgSecondary": "#1a0a2e",
+        "text": "#ffffff",
+        "textMuted": "#b8a1d6",
+        "borderLight": "#ff6ec7",
+        "borderDark": "#3d2575",
+        "shadow": "#000000"
+      }
+    },
+    "matrix": {
+      "name": "Matrix Green",
+      "description": "Classic green terminal aesthetic",
+      "colors": {
+        "primary": "#00ff00",
+        "secondary": "#00cc00",
+        "accent": "#00ff9f",
+        "success": "#39ff14",
+        "danger": "#ff0000",
+        "bg": "#000000",
+        "bgSecondary": "#001a00",
+        "text": "#00ff00",
+        "textMuted": "#00cc00",
+        "borderLight": "#00ff00",
+        "borderDark": "#004d00",
+        "shadow": "#000000"
+      }
+    },
+    "blockchain": {
+      "name": "Blockchain Blue",
+      "description": "Professional blue and gold palette",
+      "colors": {
+        "primary": "#3b82f6",
+        "secondary": "#0ea5e9",
+        "accent": "#fbbf24",
+        "success": "#10b981",
+        "danger": "#ef4444",
+        "bg": "#0f172a",
+        "bgSecondary": "#1e293b",
+        "text": "#f1f5f9",
+        "textMuted": "#94a3b8",
+        "borderLight": "#3b82f6",
+        "borderDark": "#1e3a8a",
+        "shadow": "#000000"
+      }
+    }
+  },
+  "defaultTheme": "cyberpunk"
+}

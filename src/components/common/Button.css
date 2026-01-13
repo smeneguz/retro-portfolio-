@@ -1,0 +1,116 @@
+.retro-button {
+  font-family: 'Press Start 2P', cursive;
+  font-size: var(--font-sm);
+  padding: var(--spacing-md) var(--spacing-lg);
+  border: 4px solid var(--color-border-light);
+  background: var(--color-bg-secondary);
+  color: var(--color-text);
+  cursor: pointer;
+  position: relative;
+  transition: all var(--transition-fast);
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  text-transform: uppercase;
+  box-shadow:
+    inset -4px -4px 0 var(--color-border-dark),
+    inset 4px 4px 0 var(--color-border-light),
+    4px 4px 0 var(--color-shadow);
+}
+
+.retro-button:hover:not(:disabled) {
+  transform: translate(2px, 2px);
+  box-shadow:
+    inset -4px -4px 0 var(--color-border-dark),
+    inset 4px 4px 0 var(--color-border-light),
+    2px 2px 0 var(--color-shadow);
+}
+
+.retro-button:active:not(:disabled) {
+  transform: translate(4px, 4px);
+  box-shadow:
+    inset -4px -4px 0 var(--color-border-dark),
+    inset 4px 4px 0 var(--color-border-light);
+}
+
+.retro-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Variants */
+.retro-button--primary {
+  background: linear-gradient(180deg, var(--color-primary) 0%, #c00090 100%);
+  border-color: #ff40d0;
+}
+
+.retro-button--primary:hover:not(:disabled) {
+  background: linear-gradient(180deg, #ff40d0 0%, var(--color-primary) 100%);
+}
+
+.retro-button--secondary {
+  background: linear-gradient(180deg, var(--color-secondary) 0%, #00b0b0 100%);
+  border-color: #40ffff;
+  color: var(--color-bg);
+}
+
+.retro-button--secondary:hover:not(:disabled) {
+  background: linear-gradient(180deg, #40ffff 0%, var(--color-secondary) 100%);
+}
+
+.retro-button--success {
+  background: linear-gradient(180deg, var(--color-success) 0%, #00c000 100%);
+  border-color: #40ff40;
+  color: var(--color-bg);
+}
+
+.retro-button--success:hover:not(:disabled) {
+  background: linear-gradient(180deg, #40ff40 0%, var(--color-success) 100%);
+}
+
+.retro-button--danger {
+  background: linear-gradient(180deg, var(--color-danger) 0%, #c00000 100%);
+  border-color: #ff4040;
+}
+
+.retro-button--danger:hover:not(:disabled) {
+  background: linear-gradient(180deg, #ff4040 0%, var(--color-danger) 100%);
+}
+
+.retro-button--ghost {
+  background: transparent;
+  border-color: var(--color-text);
+  box-shadow: none;
+}
+
+.retro-button--ghost:hover:not(:disabled) {
+  background: var(--color-text);
+  color: var(--color-bg);
+  transform: none;
+}
+
+/* Sizes */
+.retro-button--small {
+  padding: var(--spacing-sm) var(--spacing-md);
+  font-size: var(--font-xs);
+}
+
+.retro-button--medium {
+  padding: var(--spacing-md) var(--spacing-lg);
+  font-size: var(--font-sm);
+}
+
+.retro-button--large {
+  padding: var(--spacing-lg) var(--spacing-xl);
+  font-size: var(--font-md);
+}
+
+.retro-button__icon {
+  display: flex;
+  align-items: center;
+  font-size: 1.2em;
+}
+
+.retro-button__text {
+  line-height: 1.2;
+}

@@ -1,0 +1,10 @@
+{
+  "posts": [],
+  "categories": [
+    { "id": "all", "name": "All Posts" },
+    { "id": "blockchain", "name": "Blockchain" },
+    { "id": "security", "name": "Security" },
+    { "id": "defi", "name": "DeFi" },
+    { "id": "research", "name": "Research" }
+  ]
+}
